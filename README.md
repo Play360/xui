@@ -9,9 +9,9 @@
 
 Depois volte no putty e execute esses comandos
 
-6. comando >>>> 
-7. ``` chmod -R 777 install.sh ```
-8. comando >>>> ./install.sh
-9. comando >>>> /home/xui/status
+2º PASSO | #Instalação do pacote que foi enviado a pasta /tmp 
+``` chmod -R 777 install.sh ```
+``` ./install.sh ```
+``` /home/xui/status ```
 
 Pronto so usar seu painel está crackeado
