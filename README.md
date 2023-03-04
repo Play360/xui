@@ -9,7 +9,7 @@
 
 Depois volte no putty e execute esses comandos
 
-6. comando >>>> chmod -R 777 install.sh
+6. comando >>>> ``` chmod -R 777 install.sh ```
 7. comando >>>> ./install.sh
 8. comando >>>> /home/xui/status
 
